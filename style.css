@@ -73,6 +73,21 @@ input[type=button]:hover {
     font-size: 1em;
 }
 
+button {
+    width: 310px;
+    height: 25px;
+    margin: auto;
+    font-weight: bolder;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: black;
+    color: white;
+    font-size: 1em;
+}
+
 div#res, div#res1 {
     width: 95%;
     margin: 5px;
